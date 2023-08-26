@@ -1,13 +1,17 @@
-body
+.cabecalho
 { 
     background-color: aquamarine;
 
 
 }
-header
+.corpo
     {
         background-color:wheat
-        height:300px;
-        color
         
     }
+    div
+    {
+        background-color: blanchedalmond;
+        margin: top: 150px;
+        border: 5px solid black;
+        }
